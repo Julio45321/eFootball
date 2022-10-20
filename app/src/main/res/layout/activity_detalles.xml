@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Detalles">
+
+    <TextView
+        android:id="@+id/tvxid"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="TextView"/>
+
+    <TextView
+        android:id="@+id/tvxEquipo"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="TextView"/>
+    <TextView
+        android:id="@+id/tvxCampo"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="TextView"/>
+    <TextView
+        android:id="@+id/tvxNumHorario"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="TextView"/>
+    <TextView
+        android:id="@+id/tvxArbitro"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="TextView"/>
+
+</LinearLayout>
